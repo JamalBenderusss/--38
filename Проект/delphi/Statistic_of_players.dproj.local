@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.753,=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit1.dfm=C:\Users\artem\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.628,=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.304,C:\Users\artem\OneDrive\Рабочий стол\оаип\курсач\delphi\Statistic_of_players.dproj=C:\Users\artem\OneDrive\Рабочий стол\оаип\курсач\delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit4.pas=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.807,=C:\Users\artem\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.530,C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit4.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit1.pas=C:\Users\artem\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit4.dfm=C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,C:\Users\artem\OneDrive\Рабочий стол\курсач\delphi\Project1.dproj=C:\Users\artem\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit3.pas"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit4.pas"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit6.pas"/>
+    <File Path="Unit6.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,69 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = #1059#1085#1080#1074#1077#1088#1089#1072#1083#1100#1085#1099#1081' '#1090#1077#1089#1090
+  ClientHeight = 442
+  ClientWidth = 594
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  OnCreate = FormCreate
+  TextHeight = 15
+  object Label1: TLabel
+    Left = 88
+    Top = 400
+    Width = 393
+    Height = 23
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -17
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+  end
+  object RadioGroup1: TRadioGroup
+    Left = 64
+    Top = 24
+    Width = 465
+    Height = 57
+    Caption = #1042#1099#1073#1086#1088' '#1074#1072#1088#1080#1072#1085#1090#1072
+    Columns = 2
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clHighlight
+    Font.Height = -17
+    Font.Name = 'Segoe Print'
+    Font.Style = []
+    Items.Strings = (
+      #1042#1072#1088#1080#1072#1085#1090' 1'
+      #1042#1072#1088#1080#1072#1085#1090' 2')
+    ParentFont = False
+    TabOrder = 0
+    OnClick = RadioGroup1Click
+  end
+  object RadioGroup2: TRadioGroup
+    Left = 64
+    Top = 120
+    Width = 465
+    Height = 201
+    Caption = #1042#1086#1087#1088#1086#1089#1099
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = 16744448
+    Font.Height = -17
+    Font.Name = 'Segoe UI'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Left = 248
+    Top = 352
+    Width = 75
+    Height = 25
+    Caption = #1044#1072#1083#1077#1077
+    TabOrder = 2
+    OnClick = Button1Click
+  end
+end

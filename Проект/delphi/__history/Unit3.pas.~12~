@@ -1,0 +1,51 @@
+unit Unit3;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, Vcl.ExtCtrls,
+  Vcl.Imaging.jpeg;
+
+type
+  TTsplash = class(TForm)
+    Timer1: TTimer;
+    ProgressBar1: TProgressBar;
+    Image1: TImage;
+    procedure FormClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Tsplash: TTsplash;
+
+implementation
+uses Unit1, Unit2, Unit4;
+{$R *.dfm}
+
+
+
+procedure TTsplash.FormClick(Sender: TObject);
+var i:integer;
+begin
+Progressbar1.Min:=0;
+Progressbar1.max:=100;
+Progressbar1.Position:=0;
+for i:=1 to progressbar1.Max do begin
+  Progressbar1.Position:=i;
+  progressbar1.Update;
+  sleep(5);
+end;
+form1.Show;
+tsplash.Hide;
+
+
+end;
+
+
+
+
+end.
